@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="weblib/jsp-api.jar" sourcepath="E:/Backup/Documents and Settings/jasnap/Desktop/IVAN FOLDER/FER/Programsko inženjerstvo i informacijski sustavi/4 Semestar/Java/apache-tomcat-7.0.54.zip"/>
+	<classpathentry kind="lib" path="weblib/servlet-api.jar" sourcepath="E:/Backup/Documents and Settings/jasnap/Desktop/IVAN FOLDER/FER/Programsko inženjerstvo i informacijski sustavi/4 Semestar/Java/apache-tomcat-7.0.54.zip"/>
+	<classpathentry kind="lib" path="web/ConcertBook2015/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar" sourcepath="E:/Backup/Documents and Settings/jasnap/Desktop/IVAN FOLDER/FER/Programsko inženjerstvo i informacijski sustavi/4 Semestar/Java/javax.servlet.jsp.jstl-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="web/ConcertBook2015/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar" sourcepath="E:/Backup/Documents and Settings/jasnap/Desktop/IVAN FOLDER/FER/Programsko inženjerstvo i informacijski sustavi/4 Semestar/Java/javax.servlet.jsp.jstl-api-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="web/ConcertBook2015/WEB-INF/lib/mongo-java-driver-2.12.3.jar" sourcepath="C:/Users/Navi/.m2/repository/org/mongodb/mongo-java-driver/2.12.3/mongo-java-driver-2.12.3-sources.jar"/>
+	<classpathentry kind="lib" path="web/ConcertBook2015/WEB-INF/lib/lastfm-java-0.1.2.jar"/>
+	<classpathentry kind="lib" path="web/ConcertBook2015/WEB-INF/lib/json-20090211.jar"/>
+	<classpathentry kind="lib" path="web/ConcertBook2015/WEB-INF/lib/foursquare-api-1.0.2.jar" sourcepath="E:/Backup/Documents and Settings/jasnap/Desktop/IVAN FOLDER/FER/Programsko inženjerstvo i informacijski sustavi/4 Semestar/Java/foursquare-api-1.0.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Navi/.m2/repository/org/mongodb/mongo-java-driver/2.12.3/mongo-java-driver-2.12.3.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.mongodb"/>
+			<attribute name="maven.artifactId" value="mongo-java-driver"/>
+			<attribute name="maven.version" value="2.12.3"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="web/ConcertBook2015/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" sourcepath="E:/Backup/Documents and Settings/jasnap/Desktop/IVAN FOLDER/FER/Programsko inženjerstvo i informacijski sustavi/4 Semestar/Java/jackson-mapper-asl-1.9.13-sources.jar"/>
+	<classpathentry kind="lib" path="web/ConcertBook2015/WEB-INF/lib/jackson-core-asl-1.9.13.jar" sourcepath="E:/Backup/Documents and Settings/jasnap/Desktop/IVAN FOLDER/FER/Programsko inženjerstvo i informacijski sustavi/4 Semestar/Java/jackson-core-asl-1.9.13-sources.jar"/>
+	<classpathentry kind="output" path="web/ConcertBook2015/WEB-INF/classes"/>
+</classpath>
